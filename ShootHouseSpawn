@@ -1,0 +1,690 @@
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/弹药/无限弹药包_BP.无限弹药包_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -1082.1364067779361,
+					"y": 2025.5795122436914,
+					"z": -31.222384993066949
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q2.SM_Blockout_Cone_Q2"
+			}
+		},
+        {
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/弹药/无限弹药包_BP.无限弹药包_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 130.89785672234939,
+					"y": -143.35116286882354,
+					"z": -31.026656392821597
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q2.SM_Blockout_Cone_Q2"
+			}
+		},
+        {
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/弹药/无限弹药包_BP.无限弹药包_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -691.75602429976414,
+					"y": 849.393132859155,
+					"z": 58.868843050168181
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q2.SM_Blockout_Cone_Q2"
+			}
+		},
+        {
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3914.2536519810383,
+					"y": 485.5976434980617,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3128.9557304754858,
+					"y": 1561.057699752728,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3128.9557304754858,
+					"y": 1368.1127754577305,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3128.9557304754858,
+					"y": 1161.6857823165703,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3128.9557304754858,
+					"y": 969.62248216043827,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3128.9557304754858,
+					"y": 796.85440314711616,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3285.7205043773401,
+					"y": 796.85440314711616,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3285.7205043773401,
+					"y": 969.26739047802198,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3285.7205043773401,
+					"y": 1175.9043742557942,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3285.7205043773401,
+					"y": 1364.3100866436712,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 3285.7205043773401,
+					"y": 1557.724291230094,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3740.3456450278632,
+					"y": 485.55608539587752,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3740.3456450278632,
+					"y": 688.37442416622275,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3740.3456450278632,
+					"y": 865.56233466169294,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3740.3456450278632,
+					"y": 1056.4755751026837,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3740.3456450278632,
+					"y": 1242.9692588303781,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3914.2536519810383,
+					"y": 1242.9692588303781,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3914.2536519810383,
+					"y": 1053.8238323130827,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3914.2536519810383,
+					"y": 862.59402293016024,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		},
+		{
+			"actorId": "None",
+			"actorClass": "/Game/Core/Blueprints/关卡道具/重生点/玩家重生点父项_BP.玩家重生点父项_BP_C",
+			"actorTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -3914.2536519810383,
+					"y": 689.85693075214795,
+					"z": -30
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"saveData":
+			{
+				"meshObject": "/BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1"
+			}
+		}
