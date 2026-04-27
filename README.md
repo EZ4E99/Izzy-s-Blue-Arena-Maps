@@ -1,5 +1,4 @@
-# Izzy-s-Blue-Arena-Maps
-Izzy的BlueArena地图
+# Izzy-s-Blue-Arena-Maps Izzy的BlueArena地图
 我为BlueArena制作的地图。
 
 地图列表:
